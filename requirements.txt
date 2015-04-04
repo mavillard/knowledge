@@ -1,2 +1,4 @@
+pip
 ipython[notebook]
 ipdb
+twitter
