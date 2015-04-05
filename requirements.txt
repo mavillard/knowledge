@@ -1,4 +1,4 @@
 pip
 ipython[notebook]
 ipdb
-twitter
+tweepy==3.2.0
