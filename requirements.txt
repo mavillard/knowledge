@@ -1,3 +1,4 @@
+pip==6.0.8
 ipython[notebook]
 ipdb
 tweepy==3.2.0
@@ -5,3 +6,4 @@ matplotlib
 numexpr
 bottleneck
 pandas
+nltk
